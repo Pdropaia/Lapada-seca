@@ -9,7 +9,7 @@
     background-image: linear-gradient(black,red);
     color: rgb(102, 255, 0);
     display: flex;
-    padding-inline: 12px;
+    padding-inline: 24px 0;
     font-size: medium;
 }
 
@@ -24,7 +24,7 @@
 }
 
 .cabecalho-imagem{
-    width: 2%;
+    width: 10%;
 }
 
 .rodape{
