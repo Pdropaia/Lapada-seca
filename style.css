@@ -1,6 +1,13 @@
+.corpodosite{
+    color: white;
+}
+
+
+
+
 .cabecalho {
     background-image: linear-gradient(black,red);
-    color: rgb(43, 0, 0);
+    color: rgb(102, 255, 0);
     display: flex;
     padding: 24px 0;
 }
