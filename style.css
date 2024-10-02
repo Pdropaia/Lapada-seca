@@ -9,7 +9,7 @@
     background-image: linear-gradient(black,red);
     color: rgb(102, 255, 0);
     display: flex;
-    padding: 24px 0;
+    padding-inline: 12px;
     font-size: medium;
 }
 
